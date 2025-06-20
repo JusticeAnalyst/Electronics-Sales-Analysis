@@ -1,6 +1,6 @@
 # 📊 Electronic Sales Analysis Dashboard
 A Power BI/Excel analytics project tracking $65M in revenue across 20,000+ orders to optimize product performance and add-on sales strategies.
-##Dashboard view
+## Dashboard view
 https://github.com/JusticeAnalyst/Electronics-Sales-Analysis/blob/main/Screenshot%20(354).png
 https://github.com/JusticeAnalyst/Electronics-Sales-Analysis/blob/main/Screenshot%20(355).png
 https://github.com/JusticeAnalyst/Electronics-Sales-Analysis/blob/main/Screenshot%20(356).png
